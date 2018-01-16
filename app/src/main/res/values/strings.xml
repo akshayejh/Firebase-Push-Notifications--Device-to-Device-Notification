@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebasePushNotifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">Tvac_CH_01</string>
+</resources>
